@@ -1,8 +1,11 @@
 First You Want to create an React app
 
- To do that you need to run the command `npx create-react-app YOUR-APP-NAME`
+ To do that you need to run the command 
+ ### `npx create-react-app YOUR-APP-NAME`
  
-After that you need to type `npm start` to start your development server(this will open a tab on your browser for devolopment)
+After that you need to type 
+### `npm start` 
+to start your development server(this will open a tab on your browser for devolopment)
 
 THE NEXT INSTRUCTIONS ARE ONLY FOR THE PEOPLE WHO ARE LOOKING TO HOST YOU WEBSITE ON FIREBASE
 
