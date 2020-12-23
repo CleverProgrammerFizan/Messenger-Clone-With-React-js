@@ -1,4 +1,4 @@
-First You Want to create an React app
+### First You Want to create an React app
 
  To do that you need to run the command 
  ### `npx create-react-app YOUR-APP-NAME`
@@ -36,17 +36,17 @@ Now that you've got the firebase CLI configured, it's time to initialize firebas
 
 You will now enter the firebase tools shell and will be prompted with a sequence of questions and various configuration options. Let's go through these questions together step by step to achieve our desirable configuration.
 
-firebase home page - select, hosting: configure and deploy Firebase Hosting sites
+### Firebase home page - select, hosting: configure and deploy Firebase Hosting sites
 
-Select - Hosting: Configure and deploy Firebase Hosting sites.
+### Select - Hosting: Configure and deploy Firebase Hosting sites.
 
-select: use an existing project
+### select: use an existing project
 
-Select - Use an existing project
+### Select - Use an existing project
 
-select: fir-tutorial-project-93dac (demo-tutorial-project)Select the firebase project that you created (e.g. demo-tutorial-project in my case)
+### select: fir-tutorial-project-93dac (demo-tutorial-project)Select the firebase project that you created (e.g. demo-tutorial-project in my case)
 
-specify build and configuration
+### specify build and configuration
 
 Specify the build that we created in the previous section, to be used as your project's public directory.
 Select whether or not you need your firebase app to be configured as a single-page app. I'm selecting No in my case.
