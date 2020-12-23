@@ -44,7 +44,7 @@ You will now enter the firebase tools shell and will be prompted with a sequence
 
 ### Select - Use an existing project
 
-### select: fir-tutorial-project-93dac (demo-tutorial-project)Select the firebase project that you created (e.g. demo-tutorial-project in my case)
+### select:  https://messenger-35adb.web.app/ (demo-tutorial-project)Select the firebase project that you created (e.g. demo-tutorial-project in my case)
 
 ### specify build and configuration
 
